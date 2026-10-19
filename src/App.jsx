@@ -1,8 +1,8 @@
 
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
+import Navbar from "./components/navbar";
+import Hero from "./components/hero";
 import Technologies from "./components/Technologies";
-import Footer from "./Components/footer";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       <Navbar />
       <Hero />
       <Technologies />
-       <Footer />
+      <Footer/>
     </>
   );
 }
