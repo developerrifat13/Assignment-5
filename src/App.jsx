@@ -1,8 +1,10 @@
 
-import Navbar from "./components/navbar";
-import Hero from "./components/hero";
-import Technologies from "./components/Technologies";
-import Footer from "./components/footer";
+
+import Navbar from "./components/navbar.jsx";
+import Hero from "./components/hero.jsx";
+import Technologies from "./components/Technologies.jsx";
+import Footer from "./components/footer.jsx";
+
 
 function App() {
   return (
